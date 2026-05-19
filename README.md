@@ -1,7 +1,7 @@
 # ML Opsidian: Genesis
 
 ## Team [OHIO ML GENESIS ARC]
-- ABDULLAH & LAWSAN:** Core ML / Data Science (Kaggle Leaderboard Focus)
+- **ABDULLAH & LAWSAN:** Core ML / Data Science (Kaggle Leaderboard Focus)
 - **JANAGAN:** MLOps / Model Serving (FastAPI + Docker)
 - **HANAN MD:** Infrastructure / CI/CD / Integration (GitHub Actions + Render)
 
