@@ -1,0 +1,18 @@
+# Core Data Science
+pandas
+numpy
+scikit-learn
+
+# Modeling (Initial Round)
+xgboost
+lightgbm
+
+# MLOps & Serving (Final Round)
+fastapi
+uvicorn
+mlflow
+docker
+
+# Testing & Linting (For CI/CD)
+flake8
+pytest
