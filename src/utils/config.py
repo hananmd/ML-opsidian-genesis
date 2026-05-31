@@ -32,3 +32,7 @@ N_FOLDS           = 5
 DAGSHUB_USER      = "hananmd"
 DAGSHUB_REPO      = "ML-opsidian-genesis"
 MLFLOW_EXPERIMENT = "flood-risk-baseline"
+ENSEMBLE_EXPERIMENT = "flood-risk-ensemble"
+
+GEO_CLUSTERS = 25
+TARGET_ENCODE_COLS = ["district", "soil_type", "landcover", "urban_rural", "geo_cluster"]
